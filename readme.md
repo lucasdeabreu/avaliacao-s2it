@@ -1,6 +1,6 @@
-# Avaliação Técina da S2IT
+# Avaliação Técnica da S2IT
 
-## Repostas das questões
+## Respostas das questões
 
 ### 1) `A`
 ### 2) `D`
